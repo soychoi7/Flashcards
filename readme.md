@@ -10,7 +10,7 @@ I continued to make my flashcards app better, adding new features on top of ever
 While building this you will learn how to create completely new screens, how to present them from your main screen, and how to pass data from one screen to another.
 ### App Walk-though
 
-<img src="https://recordit.co/V54CO3j64E" width=200><br>
+<img src="http://g.recordit.co/V54CO3j64E.gif" width=200><br>
 
 ## Required
 - [x] User can open the creation screen
