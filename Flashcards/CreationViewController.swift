@@ -16,6 +16,8 @@ class CreationViewController: UIViewController {
     @IBOutlet weak var answerTextField: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
+                
+        
 
         // Do any additional setup after loading the view.
     }
@@ -34,6 +36,11 @@ class CreationViewController: UIViewController {
         
         dismiss(animated: true)
     }
+    
+    
+    
+    
+    
     /*
     // MARK: - Navigation
 
