@@ -1,6 +1,22 @@
 ## Flashcards
 
-📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users stories you completed and how your app looked and functioned at each step.
+## Lab 3
+
+### App Description
+The app finally is a fully functional app that you can actually use to study. Users can create as many flashcards as they want, browse through them and persist them even if they close the app. 
+
+### App Walk-though
+<img src="http://g.recordit.co/EF716p0XLQ.gif" width=200><br>
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [x] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
 
 ## Lab 2
 
@@ -10,7 +26,7 @@ I continued to make my flashcards app better, adding new features on top of ever
 While building this you will learn how to create completely new screens, how to present them from your main screen, and how to pass data from one screen to another.
 ### App Walk-though
 
-<img src="https://recordit.co/V54CO3j64E" width=200><br>
+<img src="http://g.recordit.co/V54CO3j64E.gif" width=200><br>
 
 ## Required
 - [x] User can open the creation screen
