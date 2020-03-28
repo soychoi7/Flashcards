@@ -6,9 +6,8 @@
 The Flashcard App that I have been working on for the CodePath class has been revised to be a fully functional app. Specifcally, assets such as buttons and animations between flashcards have been added!
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://g.recordit.co/EF716p0XLQ.gif><br>
 
 ## Required
 - [x] User should see the app icon 
