@@ -7,7 +7,7 @@ The Flashcard App that I have been working on for the CodePath class has been re
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/EF716p0XLQ.gif" width=200><br>
+<img src="http://g.recordit.co/7Yi8t3FktG.gif" width=200><br>
 
 ## Required
 - [x] User should see the app icon 
