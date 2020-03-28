@@ -1,5 +1,26 @@
 ## Flashcards
 
+## Lab 4
+
+### App Description
+The Flashcard App that I have been working on for the CodePath class has been revised to be a fully functional app. Specifcally, assets such as buttons and animations between flashcards have been added!
+
+### App Walk-though
+
+<img src="http://g.recordit.co/7Yi8t3FktG.gif" width=200><br>
+
+## Required
+- [x] User should see the app icon 
+- [x] User should see a splash screen
+- [x] User should see an flip animation when revealing the answer
+- [x] User should see a slide animation when going to the next flashcard
+- [x] User should see a slide animation when going to the previous flashcard
+- [x] Push code to GitHub
+## Optional
+- [ ] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
+- [ ] User should see all views properly layout when using the app on a phone of different sizes
+- [ ] Correct answer in multiple choice should be random
+
 ## Lab 3
 
 ### App Description
